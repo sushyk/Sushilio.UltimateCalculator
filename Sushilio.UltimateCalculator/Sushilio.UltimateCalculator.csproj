@@ -4,6 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Sushilio.UltimateCalculator</Title>
+    <Authors>Sushil Kumar</Authors>
+    <Company>Sushilio</Company>
+    <Description>The best calculator package in the world.</Description>
+    <PackageTags>calculator;math</PackageTags>
+    <Copyright>Copyright (c) Sushilio 2025</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
