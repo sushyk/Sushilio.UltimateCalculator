@@ -11,7 +11,7 @@
     <PackageTags>calculator;math</PackageTags>
     <Copyright>Copyright (c) Sushilio 2025</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.1.0</Version>
+    <Version>1.2.0</Version>
     <RepositoryUrl>https://github.com/sushyk/Sushilio.UltimateCalculator</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
