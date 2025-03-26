@@ -7,4 +7,8 @@ public interface ICalculator
     double Add(double a, double b);
 
     int Subtract(int a, int b);
+
+    int Multiply(int a, int b);
+
+    int Divide(int a, int b);
 }
